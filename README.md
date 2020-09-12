@@ -1,2 +1,2 @@
 # git-session
-my new training session repo
+my new training session repo on Master branch
